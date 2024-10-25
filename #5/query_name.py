@@ -11,7 +11,6 @@ for _ in range(n):
     
 query_name = input()
     
-    
 average = sum(student_marks[query_name]) / len(student_marks[query_name])
     
 print(average)
